@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Mobile Game Arcade",
+  "description": "A premium, production-ready mobile game hub containing Tic-Tac-Toe AI, Memory Match, and Monster Tap RPG, along with dynamic authentication, rewards wallet, and administrator dashboard.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
